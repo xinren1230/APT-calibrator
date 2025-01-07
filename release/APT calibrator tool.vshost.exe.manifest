@@ -43,14 +43,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="APT calibrator tool.exe" size="36571648">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="APT calibrator tool.exe" size="41509376">
       <assemblyIdentity name="APT calibrator tool" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>mJKOqmYeiJ3tF4ioJneWXvuGCuACpIP2fWmFmrW7RwE=</dsig:DigestValue>
+        <dsig:DigestValue>+BWGY0tMG47b2FdSx0+PndNBTOvDjj+6d+f7xkKnxXs=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -186,13 +186,13 @@
       </hash>
     </dependentAssembly>
   </dependency>
-  <file name="APT calibrator tool.exe.config" size="3806">
+  <file name="APT calibrator tool.exe.config" size="4047">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>HcSjyYHCDfkA16eSkMOjKI8DpwvksZ0U7GBdJhdum90=</dsig:DigestValue>
+      <dsig:DigestValue>vRaM0uMDAWBw5N74J8E1m7bc8au/+TH/Wsxz/ccDm6I=</dsig:DigestValue>
     </hash>
   </file>
   <file name="MatplotlibCS\annotations.py" size="1564">

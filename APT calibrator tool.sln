@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1525
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APT calibrator tool", "APT calibrator tool\APT calibrator tool.csproj", "{BDB24166-27B6-4159-914C-11C2D1D3DB51}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MatplotlibCS", "C:\Users\x.chen\Downloads\MatplotlibCS-master\MatplotlibCS\MatplotlibCS.csproj", "{DFF5FA4E-01EF-4C2D-A2E5-78F8E358140A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Examples", "C:\Users\x.chen\Downloads\MatplotlibCS-master\Examples\Examples.csproj", "{1F5B1367-EEC9-418E-A491-7716AC0FB799}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDB24166-27B6-4159-914C-11C2D1D3DB51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDB24166-27B6-4159-914C-11C2D1D3DB51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDB24166-27B6-4159-914C-11C2D1D3DB51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDB24166-27B6-4159-914C-11C2D1D3DB51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFF5FA4E-01EF-4C2D-A2E5-78F8E358140A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFF5FA4E-01EF-4C2D-A2E5-78F8E358140A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFF5FA4E-01EF-4C2D-A2E5-78F8E358140A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFF5FA4E-01EF-4C2D-A2E5-78F8E358140A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F5B1367-EEC9-418E-A491-7716AC0FB799}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F5B1367-EEC9-418E-A491-7716AC0FB799}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F5B1367-EEC9-418E-A491-7716AC0FB799}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F5B1367-EEC9-418E-A491-7716AC0FB799}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A28EB340-9762-4D26-BA6D-71C4A600E77E}
+	EndGlobalSection
+EndGlobal
