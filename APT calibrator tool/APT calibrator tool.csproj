@@ -204,6 +204,7 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RegionLanguageHelper.cs" />
     <Compile Include="Time calculator.cs">
       <SubType>Form</SubType>
     </Compile>

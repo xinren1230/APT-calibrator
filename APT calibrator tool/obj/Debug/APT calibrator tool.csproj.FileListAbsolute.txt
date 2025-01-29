@@ -51,3 +51,103 @@ D:\OneDrive\桌面\APT calibrator\APT calibrator tool\APT calibrator tool\bin\De
 D:\OneDrive\桌面\APT calibrator\APT calibrator tool\APT calibrator tool\bin\Debug\System.ValueTuple.xml
 D:\OneDrive\桌面\APT calibrator\APT calibrator tool\APT calibrator tool\bin\Debug\System.Numerics.Vectors.dll
 D:\OneDrive\桌面\APT calibrator\APT calibrator tool\APT calibrator tool\bin\Debug\System.Numerics.Vectors.xml
+D:\APT calibrator - backup\APT calibrator tool\bin\Debug\APT calibrator tool.exe.config
+D:\APT calibrator - backup\APT calibrator tool\obj\Debug\APT calibrator tool.exe
+D:\APT calibrator - backup\APT calibrator tool\obj\Debug\APT calibrator tool.pdb
+D:\APT calibrator - backup\APT calibrator tool\bin\Debug\APT calibrator tool.exe.manifest
+D:\APT calibrator - backup\APT calibrator tool\bin\Debug\APT calibrator tool.application
+D:\APT calibrator - backup\APT calibrator tool\bin\Debug\APT calibrator tool.exe
+D:\APT calibrator - backup\APT calibrator tool\bin\Debug\APT calibrator tool.pdb
+D:\APT calibrator - backup\APT calibrator tool\bin\Debug\MathNet.Numerics.dll
+D:\APT calibrator - backup\APT calibrator tool\bin\Debug\Newtonsoft.Json.dll
+D:\APT calibrator - backup\APT calibrator tool\bin\Debug\NLog.dll
+D:\APT calibrator - backup\APT calibrator tool\bin\Debug\OxyPlot.dll
+D:\APT calibrator - backup\APT calibrator tool\bin\Debug\OxyPlot.WindowsForms.dll
+D:\APT calibrator - backup\APT calibrator tool\bin\Debug\RisCaptureLib.dll
+D:\APT calibrator - backup\APT calibrator tool\bin\Debug\SharpGL.dll
+D:\APT calibrator - backup\APT calibrator tool\bin\Debug\SharpGL.SceneGraph.dll
+D:\APT calibrator - backup\APT calibrator tool\bin\Debug\SharpGL.Serialization.dll
+D:\APT calibrator - backup\APT calibrator tool\bin\Debug\SharpGL.WinForms.dll
+D:\APT calibrator - backup\APT calibrator tool\bin\Debug\SplitButton.dll
+D:\APT calibrator - backup\APT calibrator tool\bin\Debug\System.ValueTuple.dll
+D:\APT calibrator - backup\APT calibrator tool\bin\Debug\MathNet.Numerics.xml
+D:\APT calibrator - backup\APT calibrator tool\bin\Debug\Newtonsoft.Json.xml
+D:\APT calibrator - backup\APT calibrator tool\bin\Debug\NLog.xml
+D:\APT calibrator - backup\APT calibrator tool\bin\Debug\OxyPlot.xml
+D:\APT calibrator - backup\APT calibrator tool\bin\Debug\OxyPlot.WindowsForms.xml
+D:\APT calibrator - backup\APT calibrator tool\bin\Debug\SharpGL.xml
+D:\APT calibrator - backup\APT calibrator tool\bin\Debug\SharpGL.SceneGraph.xml
+D:\APT calibrator - backup\APT calibrator tool\bin\Debug\SharpGL.Serialization.xml
+D:\APT calibrator - backup\APT calibrator tool\bin\Debug\SharpGL.WinForms.xml
+D:\APT calibrator - backup\APT calibrator tool\bin\Debug\System.Numerics.Vectors.xml
+D:\APT calibrator - backup\APT calibrator tool\bin\Debug\System.ValueTuple.xml
+D:\APT calibrator - backup\APT calibrator tool\obj\Debug\APT calibrator tool.csprojResolveAssemblyReference.cache
+D:\APT calibrator - backup\APT calibrator tool\obj\Debug\APT_calibrator_tool.Form_DynRec.resources
+D:\APT calibrator - backup\APT calibrator tool\obj\Debug\APT_calibrator_tool.Form_pero.resources
+D:\APT calibrator - backup\APT calibrator tool\obj\Debug\APT_calibrator_tool.Form_kfprop.resources
+D:\APT calibrator - backup\APT calibrator tool\obj\Debug\APT_calibrator_tool.Form_Photo.resources
+D:\APT calibrator - backup\APT calibrator tool\obj\Debug\APT_calibrator_tool.Form_Reference.resources
+D:\APT calibrator - backup\APT calibrator tool\obj\Debug\APT_calibrator_tool.Form5.resources
+D:\APT calibrator - backup\APT calibrator tool\obj\Debug\APT_calibrator_tool.Form1.resources
+D:\APT calibrator - backup\APT calibrator tool\obj\Debug\APT_calibrator_tool.Form2.resources
+D:\APT calibrator - backup\APT calibrator tool\obj\Debug\APT_calibrator_tool.Form3.resources
+D:\APT calibrator - backup\APT calibrator tool\obj\Debug\APT_calibrator_tool.Form_save.resources
+D:\APT calibrator - backup\APT calibrator tool\obj\Debug\APT_calibrator_tool.Form_about.resources
+D:\APT calibrator - backup\APT calibrator tool\obj\Debug\APT_calibrator_tool.Pole_Simulator.resources
+D:\APT calibrator - backup\APT calibrator tool\obj\Debug\APT_calibrator_tool.Properties.Resources.resources
+D:\APT calibrator - backup\APT calibrator tool\obj\Debug\APT_calibrator_tool.Time_calculator.resources
+D:\APT calibrator - backup\APT calibrator tool\obj\Debug\APT calibrator tool.csproj.GenerateResource.Cache
+D:\APT calibrator - backup\APT calibrator tool\obj\Debug\APT calibrator tool.exe.manifest
+D:\APT calibrator - backup\APT calibrator tool\obj\Debug\APT calibrator tool.application
+D:\APT calibrator\APT calibrator tool\bin\Debug\APT calibrator tool.exe.config
+D:\APT calibrator\APT calibrator tool\obj\Debug\APT calibrator tool.exe
+D:\APT calibrator\APT calibrator tool\obj\Debug\APT calibrator tool.pdb
+D:\APT calibrator\APT calibrator tool\bin\Debug\APT calibrator tool.exe.manifest
+D:\APT calibrator\APT calibrator tool\bin\Debug\APT calibrator tool.application
+D:\APT calibrator\APT calibrator tool\bin\Debug\APT calibrator tool.exe
+D:\APT calibrator\APT calibrator tool\bin\Debug\APT calibrator tool.pdb
+D:\APT calibrator\APT calibrator tool\bin\Debug\MathNet.Numerics.dll
+D:\APT calibrator\APT calibrator tool\bin\Debug\Newtonsoft.Json.dll
+D:\APT calibrator\APT calibrator tool\bin\Debug\NLog.dll
+D:\APT calibrator\APT calibrator tool\bin\Debug\OxyPlot.dll
+D:\APT calibrator\APT calibrator tool\bin\Debug\OxyPlot.WindowsForms.dll
+D:\APT calibrator\APT calibrator tool\bin\Debug\RisCaptureLib.dll
+D:\APT calibrator\APT calibrator tool\bin\Debug\SharpGL.dll
+D:\APT calibrator\APT calibrator tool\bin\Debug\SharpGL.SceneGraph.dll
+D:\APT calibrator\APT calibrator tool\bin\Debug\SharpGL.Serialization.dll
+D:\APT calibrator\APT calibrator tool\bin\Debug\SharpGL.WinForms.dll
+D:\APT calibrator\APT calibrator tool\bin\Debug\SplitButton.dll
+D:\APT calibrator\APT calibrator tool\bin\Debug\System.ValueTuple.dll
+D:\APT calibrator\APT calibrator tool\bin\Debug\MathNet.Numerics.xml
+D:\APT calibrator\APT calibrator tool\bin\Debug\Newtonsoft.Json.xml
+D:\APT calibrator\APT calibrator tool\bin\Debug\NLog.xml
+D:\APT calibrator\APT calibrator tool\bin\Debug\OxyPlot.xml
+D:\APT calibrator\APT calibrator tool\bin\Debug\OxyPlot.WindowsForms.xml
+D:\APT calibrator\APT calibrator tool\bin\Debug\SharpGL.xml
+D:\APT calibrator\APT calibrator tool\bin\Debug\SharpGL.SceneGraph.xml
+D:\APT calibrator\APT calibrator tool\bin\Debug\SharpGL.Serialization.xml
+D:\APT calibrator\APT calibrator tool\bin\Debug\SharpGL.WinForms.xml
+D:\APT calibrator\APT calibrator tool\bin\Debug\System.Numerics.Vectors.xml
+D:\APT calibrator\APT calibrator tool\bin\Debug\System.ValueTuple.xml
+D:\APT calibrator\APT calibrator tool\obj\Debug\APT_calibrator_tool.Form_DynRec.resources
+D:\APT calibrator\APT calibrator tool\obj\Debug\APT_calibrator_tool.Form_pero.resources
+D:\APT calibrator\APT calibrator tool\obj\Debug\APT_calibrator_tool.Form_kfprop.resources
+D:\APT calibrator\APT calibrator tool\obj\Debug\APT_calibrator_tool.Form_Photo.resources
+D:\APT calibrator\APT calibrator tool\obj\Debug\APT_calibrator_tool.Form_Reference.resources
+D:\APT calibrator\APT calibrator tool\obj\Debug\APT_calibrator_tool.Form5.resources
+D:\APT calibrator\APT calibrator tool\obj\Debug\APT_calibrator_tool.Form1.resources
+D:\APT calibrator\APT calibrator tool\obj\Debug\APT_calibrator_tool.Form2.resources
+D:\APT calibrator\APT calibrator tool\obj\Debug\APT_calibrator_tool.Form3.resources
+D:\APT calibrator\APT calibrator tool\obj\Debug\APT_calibrator_tool.Form_save.resources
+D:\APT calibrator\APT calibrator tool\obj\Debug\APT_calibrator_tool.Form_about.resources
+D:\APT calibrator\APT calibrator tool\obj\Debug\APT_calibrator_tool.Pole_Simulator.resources
+D:\APT calibrator\APT calibrator tool\obj\Debug\APT_calibrator_tool.Properties.Resources.resources
+D:\APT calibrator\APT calibrator tool\obj\Debug\APT_calibrator_tool.Time_calculator.resources
+D:\APT calibrator\APT calibrator tool\obj\Debug\APT calibrator tool.csproj.GenerateResource.Cache
+D:\APT calibrator\APT calibrator tool\obj\Debug\APT calibrator tool.exe.manifest
+D:\APT calibrator\APT calibrator tool\obj\Debug\APT calibrator tool.application
+D:\APT calibrator\APT calibrator tool\obj\Debug\APT calibrator tool.csprojAssemblyReference.cache
+D:\APT calibrator\APT calibrator tool\obj\Debug\APT calibrator tool.csproj.CoreCompileInputs.cache
+D:\APT calibrator\APT calibrator tool\bin\Debug\MatplotlibCS.dll
+D:\APT calibrator\APT calibrator tool\bin\Debug\MatplotlibCS.pdb
+D:\APT calibrator\APT calibrator tool\obj\Debug\APT calibrator tool.csproj.CopyComplete

@@ -253,6 +253,16 @@ namespace APT_calibrator_tool
             {
                 listBox1.Items.Add(aa[i]);
             }
+
+
+            bool isInGermany = RegionLanguageHelper.CheckIfRegionIsDE();
+            if (isInGermany)
+            {
+                MessageBox.Show("Warning: The language is German (de-DE), please switch the regional language setting to en-US to avoid the problem of math format.");
+            }
+            else
+            {
+            }
         }
 
         private void sETToolStripMenuItem_Click(object sender, EventArgs e)

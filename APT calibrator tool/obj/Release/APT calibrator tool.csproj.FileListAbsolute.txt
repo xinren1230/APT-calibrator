@@ -43,3 +43,22 @@ D:\OneDrive\桌面\APT calibrator\APT calibrator tool\APT calibrator tool\obj\Re
 D:\OneDrive\桌面\APT calibrator\APT calibrator tool\APT calibrator tool\obj\Release\APT_calibrator_tool.Form_Photo.resources
 D:\OneDrive\桌面\APT calibrator\APT calibrator tool\APT calibrator tool\obj\Release\APT_calibrator_tool.Form_pero.resources
 D:\OneDrive\桌面\APT calibrator\APT calibrator tool\APT calibrator tool\obj\Release\APT_calibrator_tool.Form_DynRec.resources
+D:\APT calibrator - backup\APT calibrator tool\bin\Release\APT calibrator tool.exe.config
+D:\APT calibrator - backup\APT calibrator tool\obj\Release\APT calibrator tool.exe
+D:\APT calibrator - backup\APT calibrator tool\obj\Release\APT calibrator tool.pdb
+D:\APT calibrator - backup\APT calibrator tool\obj\Release\APT calibrator tool.csprojResolveAssemblyReference.cache
+D:\APT calibrator - backup\APT calibrator tool\obj\Release\APT_calibrator_tool.Form_DynRec.resources
+D:\APT calibrator - backup\APT calibrator tool\obj\Release\APT_calibrator_tool.Form_pero.resources
+D:\APT calibrator - backup\APT calibrator tool\obj\Release\APT_calibrator_tool.Form_kfprop.resources
+D:\APT calibrator - backup\APT calibrator tool\obj\Release\APT_calibrator_tool.Form_Photo.resources
+D:\APT calibrator - backup\APT calibrator tool\obj\Release\APT_calibrator_tool.Form_Reference.resources
+D:\APT calibrator - backup\APT calibrator tool\obj\Release\APT_calibrator_tool.Form5.resources
+D:\APT calibrator - backup\APT calibrator tool\obj\Release\APT_calibrator_tool.Form1.resources
+D:\APT calibrator - backup\APT calibrator tool\obj\Release\APT_calibrator_tool.Form2.resources
+D:\APT calibrator - backup\APT calibrator tool\obj\Release\APT_calibrator_tool.Form3.resources
+D:\APT calibrator - backup\APT calibrator tool\obj\Release\APT_calibrator_tool.Form_save.resources
+D:\APT calibrator - backup\APT calibrator tool\obj\Release\APT_calibrator_tool.Form_about.resources
+D:\APT calibrator - backup\APT calibrator tool\obj\Release\APT_calibrator_tool.Pole_Simulator.resources
+D:\APT calibrator - backup\APT calibrator tool\obj\Release\APT_calibrator_tool.Properties.Resources.resources
+D:\APT calibrator - backup\APT calibrator tool\obj\Release\APT_calibrator_tool.Time_calculator.resources
+D:\APT calibrator - backup\APT calibrator tool\obj\Release\APT calibrator tool.csproj.GenerateResource.Cache

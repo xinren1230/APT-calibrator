@@ -454,7 +454,14 @@ namespace APT_calibrator_tool
 
         private void Pole_Simulator_Load(object sender, EventArgs e)
         {
-
+            bool isInGermany = RegionLanguageHelper.CheckIfRegionIsDE();
+            if (isInGermany)
+            {
+                MessageBox.Show("Warning: The language is German (de-DE), please change all numbers to German math format. '.' to ','");
+            }
+            else
+            {
+            }
         }
 
         private void Euler_Btn_Click(object sender, EventArgs e)
