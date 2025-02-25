@@ -1,4 +1,5 @@
 APT Calibrator
+
 Atom probe tomography (APT) provides compositional mapping of material at the nanoscale, and in that sense accurate reconstruction of the atomic positions is crucial for precise and accurate analysis. Here, we introduce the "APT Calibrator," developed in C#, a software tool that aids in the calibration of APT reconstructions. It integrates essential calibration methods proposed over the past two decades to derive the key hyperparameters, such as the image compression factor (ICF), field reduction factor (Kf), allows for dynamic reconstruction of the data and facilities atom probe crystallographic analysis of microstructural defects. The software features a straightforward interface, simplifying the calibration process and making it more accessible.
 
 
