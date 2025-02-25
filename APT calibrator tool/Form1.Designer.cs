@@ -106,6 +106,7 @@
             this.runTimeCalculatorToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.evaporationFieldToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.periodicTableToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.dynamicAPTReconstructionToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.methosToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.kfCalibrationToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.poleFigureToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
@@ -132,7 +133,6 @@
             this.label38 = new System.Windows.Forms.Label();
             this.label37 = new System.Windows.Forms.Label();
             this.linkLabel1 = new System.Windows.Forms.LinkLabel();
-            this.dynamicAPTReconstructionToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.panel2.SuspendLayout();
             this.panel3.SuspendLayout();
             this.panel1.SuspendLayout();
@@ -717,9 +717,9 @@
             this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label2.Location = new System.Drawing.Point(6, 3);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(66, 13);
+            this.label2.Size = new System.Drawing.Size(75, 13);
             this.label2.TabIndex = 8;
-            this.label2.Text = "Initialation";
+            this.label2.Text = "Initialization";
             // 
             // panel4
             // 
@@ -880,6 +880,13 @@
             this.periodicTableToolStripMenuItem.Size = new System.Drawing.Size(228, 22);
             this.periodicTableToolStripMenuItem.Text = "Periodic Table";
             this.periodicTableToolStripMenuItem.Click += new System.EventHandler(this.periodicTableToolStripMenuItem_Click);
+            // 
+            // dynamicAPTReconstructionToolStripMenuItem
+            // 
+            this.dynamicAPTReconstructionToolStripMenuItem.Name = "dynamicAPTReconstructionToolStripMenuItem";
+            this.dynamicAPTReconstructionToolStripMenuItem.Size = new System.Drawing.Size(228, 22);
+            this.dynamicAPTReconstructionToolStripMenuItem.Text = "Dynamic APT Reconstruction";
+            this.dynamicAPTReconstructionToolStripMenuItem.Click += new System.EventHandler(this.dynamicAPTReconstructionToolStripMenuItem_Click);
             // 
             // methosToolStripMenuItem
             // 
@@ -1135,13 +1142,6 @@
             this.linkLabel1.TabStop = true;
             this.linkLabel1.Text = "Tutorials";
             this.linkLabel1.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.linkLabel1_LinkClicked);
-            // 
-            // dynamicAPTReconstructionToolStripMenuItem
-            // 
-            this.dynamicAPTReconstructionToolStripMenuItem.Name = "dynamicAPTReconstructionToolStripMenuItem";
-            this.dynamicAPTReconstructionToolStripMenuItem.Size = new System.Drawing.Size(228, 22);
-            this.dynamicAPTReconstructionToolStripMenuItem.Text = "Dynamic APT Reconstruction";
-            this.dynamicAPTReconstructionToolStripMenuItem.Click += new System.EventHandler(this.dynamicAPTReconstructionToolStripMenuItem_Click);
             // 
             // Form1
             // 

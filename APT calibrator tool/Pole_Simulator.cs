@@ -1495,7 +1495,7 @@ namespace APT_calibrator_tool
             var result1 = SigmaCSL.IsSigmaBoundary(axis1, misorientationAngle1, structureType);
             if (result1.isSigma)
             {
-                richTextBox_Sigma.Text = $"This is a Σ{result1.sigmaValue} boundary with a deviation of {result1.deviation:F2} degrees";
+                richTextBox_Sigma.Text = "This is a Σ{result1.sigmaValue} boundary with a deviation of {result1.deviation:F2} degrees";
             }
             else
             {
@@ -1832,7 +1832,7 @@ namespace APT_calibrator_tool
                     minRotationAxis_g1 = MatrixMultiply(g1I, minRotationAxisMatrix);
 
                     // Convert the axis (array) to a readable string format
-                    string axisString = $"[{minRotationAxis_g1[0,0]}, {minRotationAxis_g1[1,0]}, {minRotationAxis_g1[2,0]}]";
+                    string axisString = "[{minRotationAxis_g1[0,0]}, {minRotationAxis_g1[1,0]}, {minRotationAxis_g1[2,0]}]";
                 }
             }
             double ansTheta = minTheta * 180 / Math.PI;
@@ -2017,7 +2017,7 @@ namespace APT_calibrator_tool
                 // Check if the angle is less than the threshold
                 if (angle <= angleThreshold || (180 - angle) <= angleThreshold)
                 {
-                    MessageBox.Show($"Angle between Axis and CSL Axis {string.Join(",", perm)}: {angle:F2}°");
+                    MessageBox.Show("Angle between Axis and CSL Axis {string.Join(",", perm)}: {angle:F2}°");
                     return true;
                 }
             }

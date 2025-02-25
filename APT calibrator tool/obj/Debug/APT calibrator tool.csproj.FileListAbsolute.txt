@@ -151,3 +151,4 @@ D:\APT calibrator\APT calibrator tool\obj\Debug\APT calibrator tool.csproj.CoreC
 D:\APT calibrator\APT calibrator tool\bin\Debug\MatplotlibCS.dll
 D:\APT calibrator\APT calibrator tool\bin\Debug\MatplotlibCS.pdb
 D:\APT calibrator\APT calibrator tool\obj\Debug\APT calibrator tool.csproj.CopyComplete
+D:\APT calibrator\APT calibrator tool\obj\Debug\APT calibrator tool.csprojResolveAssemblyReference.cache

@@ -105,7 +105,7 @@ namespace APT_calibrator_tool
                         double etaHKbc = angbc / obs_angbc;
                         double etaHKac = angac / obs_angac;
                         //textBox_obstheta.Text = ((obs_angab + obs_angbc + obs_angac) / 3).ToString();
-                        textBox_etaresult.Text = ((etaHKab + etaHKbc + etaHKac) / 3).ToString();
+                        textBox_etaresult.Text = ((etaHKab + etaHKbc + etaHKac) / 3).ToString("0.000");
                     }
                     else if (textBoxmx2.Text != "" & textBoxmy2.Text != "")
                     {
