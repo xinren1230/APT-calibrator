@@ -19,4 +19,7 @@ This project is licensed under the GNU General Public License v3.0. See the LICE
 
 For any issues or feature requests, please open an issue on the GitHub repository.
 
+[![Watch the video](https://img.youtube.com/Yk1NViybT88/hqdefault.jpg)](https://youtu.be/Yk1NViybT88)
+
+
 more information can be found at https://www.xinrenchen.com/home/apt-calibrator
