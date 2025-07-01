@@ -61,10 +61,8 @@ namespace APT_calibrator_tool
                 {
                     itercount = itercount + 1;
                     label8.Text = "Radius calibration (Iterration time: " + itercount.ToString() + ")";
-                    label5.Text = "kf";
                     label17.Text = "Tip Radius";
                     textBox_tipR.Text = (Convert.ToDouble(textBox_tipR.Text) / (Math.Sqrt(Convert.ToDouble(textBox_theoD.Text) / Convert.ToDouble(textBox_ObsD.Text)))).ToString();
-                    textBox_kf.Text = (Convert.ToDouble(textBox_kf.Text) * Math.Sqrt(Convert.ToDouble(textBox_theoD.Text) / Convert.ToDouble(textBox_ObsD.Text))).ToString();
                 }
                 catch (Exception)
                 {
@@ -371,7 +369,6 @@ namespace APT_calibrator_tool
 
         private void textBox1_TextChanged(object sender, EventArgs e)
         {
-            textBox_kf.Text = textBox1.Text;
         }
 
         private void textBox2_TextChanged(object sender, EventArgs e)
@@ -542,6 +539,11 @@ namespace APT_calibrator_tool
         {
             Form_DynRec dynform = new Form_DynRec();
             dynform.Show();
+        }
+
+        private void textBox_etaresult_TextChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }

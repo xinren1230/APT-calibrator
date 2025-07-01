@@ -1,0 +1,2 @@
+APT[[:space:]]calibrator[[:space:]]tool/bin/Debug/test filter=lfs diff=lfs merge=lfs -text
+APT[[:space:]]calibrator[[:space:]]tool/bin/Release/test filter=lfs diff=lfs merge=lfs -text

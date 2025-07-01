@@ -30,8 +30,6 @@
         {
             this.components = new System.ComponentModel.Container();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
-            this.label5 = new System.Windows.Forms.Label();
-            this.textBox_kf = new System.Windows.Forms.TextBox();
             this.label6 = new System.Windows.Forms.Label();
             this.comboBox1 = new System.Windows.Forms.ComboBox();
             this.panel2 = new System.Windows.Forms.Panel();
@@ -143,25 +141,6 @@
             this.contextMenuStrip1.SuspendLayout();
             this.panel_finalkf.SuspendLayout();
             this.SuspendLayout();
-            // 
-            // label5
-            // 
-            this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(5, 48);
-            this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(43, 13);
-            this.label5.TabIndex = 1;
-            this.label5.Text = "Initial kf";
-            this.label5.TextAlign = System.Drawing.ContentAlignment.TopRight;
-            this.label5.Visible = false;
-            // 
-            // textBox_kf
-            // 
-            this.textBox_kf.Location = new System.Drawing.Point(57, 87);
-            this.textBox_kf.Name = "textBox_kf";
-            this.textBox_kf.Size = new System.Drawing.Size(38, 20);
-            this.textBox_kf.TabIndex = 0;
-            this.textBox_kf.Visible = false;
             // 
             // label6
             // 
@@ -306,13 +285,12 @@
             // panel3
             // 
             this.panel3.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.panel3.Controls.Add(this.label5);
             this.panel3.Controls.Add(this.textBox_tipR);
             this.panel3.Controls.Add(this.label17);
             this.panel3.Controls.Add(this.label18);
             this.panel3.Location = new System.Drawing.Point(9, 47);
             this.panel3.Name = "panel3";
-            this.panel3.Size = new System.Drawing.Size(181, 55);
+            this.panel3.Size = new System.Drawing.Size(181, 58);
             this.panel3.TabIndex = 7;
             // 
             // textBox_tipR
@@ -676,6 +654,7 @@
             this.textBox_etaresult.ReadOnly = true;
             this.textBox_etaresult.Size = new System.Drawing.Size(74, 20);
             this.textBox_etaresult.TabIndex = 5;
+            this.textBox_etaresult.TextChanged += new System.EventHandler(this.textBox_etaresult_TextChanged);
             // 
             // label29
             // 
@@ -760,7 +739,6 @@
             // 
             this.panel5.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.panel5.Controls.Add(this.label32);
-            this.panel5.Controls.Add(this.textBox_kf);
             this.panel5.Controls.Add(this.comboBox2);
             this.panel5.Controls.Add(this.label1);
             this.panel5.Controls.Add(this.label8);
@@ -1187,8 +1165,6 @@
 
         #endregion
 
-        private System.Windows.Forms.Label label5;
-        public System.Windows.Forms.TextBox textBox_kf;
         private System.Windows.Forms.Label label6;
         public System.Windows.Forms.ComboBox comboBox1;
         private System.Windows.Forms.Panel panel2;
