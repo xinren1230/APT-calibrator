@@ -7,9 +7,8 @@ Clone the Repository:
 
 git clone https://github.com/xinren1230/APT-calibrator.git
 
-
-Download the Release Folder: The necessary executable files are located in the release folder. Ensure you have this folder in your project directory.
-
+Simple usage:
+Download the Install.exe
 
 
 For detailed information on the calibration process, troubleshooting, and advanced features, please refer to the official documentation.
