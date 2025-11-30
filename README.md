@@ -23,3 +23,6 @@ For any issues or feature requests, please open an issue on the GitHub repositor
 
 
 more information can be found at https://www.xinrenchen.com/home/apt-calibrator
+
+
+Please cite this paper when you find this software is helpful: Chen, Xinren, et al. "APT Calibrator: A Multifunctional C# Software Application for Reconstruction Calibration in Atom Probe Tomography." Microscopy and Microanalysis 31.5 (2025): ozaf092.
